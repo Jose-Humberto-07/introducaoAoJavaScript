@@ -1,0 +1,11 @@
+Eventos: Mouse
+
+onMouseOver: passando o mouse sobre o elemento.
+
+onMouseOut: saindo do elemento.
+
+onMouseDown: pressionando o botão do mouse sobre o elemento.
+
+onMouseUp: soltando o botão do mouse do elemento
+
+onMouseMove: movimentando o mouse sobre o elemento

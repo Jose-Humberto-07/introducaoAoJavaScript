@@ -1,0 +1,10 @@
+Eventos Input
+
+onBlur: Quando sai do campo
+onCharge: Quando muda o conteúdo do campo
+onFocus: quando entra no campo
+onSelect: quando um texto é selecionado
+onSubmit: quando o formulário é submetido
+onReset: quando o botão de reset é clicado
+onKeyDown: quando pressionada a tecla
+onKeyUp: quando solta a tecla pressionada
